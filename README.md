@@ -23,4 +23,4 @@
 3. remove: `go run . --remove -id 1`
 4. update: `go run . --update -id 1`
 
-### Next plan: Convert this into RESTful API, and make some needed changes and refactor.
+### Next plan: Make backend version of this (gRPC API), and make some needed changes and refactor.
